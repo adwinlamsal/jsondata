@@ -1,25 +1,25 @@
 {
-    "Ashitaka Wallpapers":[
+    "God Ringtones":[
      { 
-    "image": "https://wallpapercave.com/dwp1x/wp4091434.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/one.mp3"
     },
      {
-    "image": "https://wallpapercave.com/dwp1x/wp4091427.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
     },
      {
-    "image": "https://wallpapercave.com/dwp1x/b7naLCQ.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/three.mp3"
     },
      {
-    "image": "https://wallpapercave.com/dwp1x/niNDJrW.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
     }
      ],
-     "Anime 4K Wallpapers":
+     "Music Ringtones":
      [
      { 
-    "image": "https://wallpapercave.com/dwp1x/wp2301560.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
     },
      {
-    "image": "https://wallpapercave.com/dwp1x/wp2123929.jpg"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/three.mp3"
     }
      ]
      

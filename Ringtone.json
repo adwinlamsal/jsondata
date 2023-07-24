@@ -1,24 +1,26 @@
 {
     "New Ringtones":[
      { 
+    "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
     },
      {
+           "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     }
      ],
      "Trending Ringtones":
      [
-     { 
+     {   "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     }
      ],
@@ -26,27 +28,27 @@
      { 
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     }
      ],
      "God Ringtones":[
-     { 
+     {   "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     },
-     {
+     {  "name":"KGF Song",
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     }
      ]

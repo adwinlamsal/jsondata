@@ -13,7 +13,7 @@
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     }
      ],
-     "BGM Ringtones":
+     "Trending Ringtones":
      [
      { 
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
@@ -22,7 +22,21 @@
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     }
      ],
-    "God Ringtones":[
+    "Popular Ringtones":[
+     { 
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
+    },
+     {
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    },
+     {
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
+    },
+     {
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
+    }
+     ],
+     "God Ringtones":[
      { 
     "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
     },

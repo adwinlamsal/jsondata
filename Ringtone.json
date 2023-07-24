@@ -1,25 +1,25 @@
 {
     "God Ringtones":[
      { 
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/one.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/one.mp3"
     },
      {
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
      {
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/three.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     },
      {
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     }
      ],
      "Music Ringtones":
      [
      { 
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/two.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/two.mp3"
     },
      {
-    "ringtone": "https://github.com/adwinlamsal/jsondata/blob/main/three.mp3"
+    "ringtone": "https://github.com/adwinlamsal/jsondata/raw/main/three.mp3"
     }
      ]
      
